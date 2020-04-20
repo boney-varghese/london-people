@@ -12,7 +12,11 @@ git clone https://github.com/boneyrp/london-people.git
 Run the below command to build the docker image: 
 ##### docker build -t london .
 
+
+
 If this succeeds, run the below command:
 ##### docker run -p 8081:8081 london
+
+
 
 Once the application is up and running the API details are available at http://localhost:8081/swagger-ui.html#/people-controller
