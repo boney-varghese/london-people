@@ -1,6 +1,6 @@
 ## Overall Architecture
 
-This project is a Multi Stage Docker Spring Boot Java application to retrieve the list of people who are listed as either living in London, or whose current coordinates are within 50 miles of London.
+This project is a Multi Stage Docker Spring Boot Java application to retrieve the list of people who are listed as either living in London, or whose current coordinates are within 50 miles of London using Haversine formula.
 
 ## Build & Deploy Process
 
