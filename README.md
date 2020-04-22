@@ -13,7 +13,6 @@ Run the below command to build the docker image:
 ##### docker build -t london .
 
 
-
 If this succeeds, run the below command:
 ##### docker run -p 8081:8081 london
 
